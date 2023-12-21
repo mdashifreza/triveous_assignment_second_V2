@@ -55,7 +55,7 @@ const Navbar = () => {
                             <Link to={"/alltools"} className='items-center hover:text-purple-900  text-black'>Alltools</Link>
                             <Link to={"/submit"} className='items-center hover:text-purple-900  text-black'>Submit</Link>
                             <Link to={"/newsletter"} className='items-center hover:text-purple-900  text-black'>Newsletter</Link>
-                            <Link to={"/about-us"} className='items-center hover:text-purple-900  text-black'>About us</Link>
+                            <Link to={"/aboutUs"} className='items-center hover:text-purple-900  text-black'>About us</Link>
                         </div>
                     ) : ("")}
 
